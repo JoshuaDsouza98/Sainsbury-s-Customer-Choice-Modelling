@@ -15,36 +15,13 @@ These insights enable Sainsbury's to optimize product assortment, ensuring high-
 ### Conclusion:
 The analysis of bagel selection at Sainsbury's provides valuable insights for optimizing product assortment, pricing, and marketing, enhancing customer satisfaction and operational efficiency, aligning with customer preferences, and fostering long-term success.
 
-### Note: The data has undergone encoding procedures to uphold privacy and confidentiality.
+### Note: As I have signed an NDA (Non-Disclosure Agreement), I am able to share very little of this project with an audience. Additionally, the results shared here have undergone encoding procedures to uphold privacy and confidentiality.
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
+<img   src="assets/Brand Segmentation Prediction.png" alt="Brand Segmentation Prediction"> 
+<img   src="assets/High Volume Prediction.png" alt="High Volume Prediction"> <br>
 
-  <!-- Slides -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="image1.jpg" alt="Image 1">
-    </div>
-    <div class="carousel-item">
-      <img src="image2.jpg" alt="Image 2">
-    </div>
-    <div class="carousel-item">
-      <img src="image3.jpg" alt="Image 3">
-    </div>
-  </div>
+<img src="assets/Low Volume Prediction.png" alt="Low Volume Prediction">
+<img src="assets/Zone Segmentation.png" alt="Zone Segmentation">
 
-  <!-- Controls -->
-  <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+
+
